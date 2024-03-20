@@ -1,1 +1,1 @@
-Here is where I will put all my python stuff.
+Hi! Here is where I will put all of my Python projects from my software class!
